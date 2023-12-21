@@ -14,7 +14,7 @@
 
   
 "ironsource_inter":"DefaultInterstitial",
-"iron_appkey":"85460dcd",
+"iron_appkey":"1cf4107f5",
 "ironsource_banner":"DefaultBanner",
 "ironsource_reward":"DefaultReward",
  
@@ -42,10 +42,10 @@
 "detail_text_title":"how to use the mod helper",
 "detail_text1":"1) open file in chrome.. and File is Auto Downloading..\n\n 2) open Download folder and Extract to .zip file which ", 
  
-"banner_network_choice":"yandex", 
-"interstisial_network_choice":"yandex", 
-"reward_network_choice":"yandex",
-"native_network_choice":"yandex"
+"banner_network_choice":"ironsource", 
+"interstisial_network_choice":"ironsource", 
+"reward_network_choice":"ironsource",
+"native_network_choice":"ironsource"
   
   
 
