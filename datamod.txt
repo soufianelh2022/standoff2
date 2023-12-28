@@ -4,7 +4,7 @@
 "unity_inter":"Interstitial_Android",
 "unity_banner":"Banner_Android",
 "unity_reward":"Rewarded_Android",
-"unity_gameid":"5082535",
+"unity_gameid":"5511651",
   
   
 "applovin_inter":"269d73adeea133fb",
@@ -44,7 +44,7 @@
  
 "banner_network_choice":"ironsource", 
 "interstisial_network_choice":"ironsource", 
-"reward_network_choice":"ironsource",
+"reward_network_choice":"unity",
 "native_network_choice":"ironsource"
   
   
