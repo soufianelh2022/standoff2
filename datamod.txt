@@ -44,7 +44,7 @@
  
 "banner_network_choice":"ironsource", 
 "interstisial_network_choice":"ironsource", 
-"reward_network_choice":"unity",
+"reward_network_choice":"ironsource",
 "native_network_choice":"ironsource"
   
   
