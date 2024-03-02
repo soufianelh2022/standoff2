@@ -42,10 +42,10 @@
 "detail_text_title":"how to use the mod helper",
 "detail_text1":"1) open file in chrome.. and File is Auto Downloading..\n\n 2) open Download folder and Extract to .zip file which ", 
  
-"banner_network_choice":"admob", 
+"banner_network_choice":"ironsource", 
 "interstisial_network_choice":"ironsource", 
-"reward_network_choice":"admob",
-"native_network_choice":"admob"
+"reward_network_choice":"ironsource",
+"native_network_choice":"ironsource"
   
   
 
@@ -88,11 +88,11 @@
    ],
   
   "more_apps_info":[
-  {"name":"стандофф кейсы","package_name":"com.modmenustandoff.playersmenustan","icon":"https://play-lh.googleusercontent.com/jDiOVRlaoyu-MZO-3vzz7aSWcCWG4AM7Q1dOIcyCXGPa72dxj3pl-U56k-f2VEKHqFU=w240-h480-rw"},
-  {"name":"стандофф 2 0.25.0 ","package_name":"com.updatestandoff.seasondownloadgame","icon":"https://play-lh.googleusercontent.com/WSEfDetXywCr2MBU256KomUDusYzqw-2GQxi0KWUeGaa7oVCku6jfyjw5vUZ-TwA=w240-h480-rw"},
-  {"name":"Кейс симулятор для Стандофф 2","package_name":"com.modmenustandoff.playersmenustan","icon":"https://play-lh.googleusercontent.com/4oTZgfWGsm0O2XOaEmsVbHwy78OpYG2MBublu9VxPj7zvuynnHFWCQSPZzuNwYMJ-g=w240-h480-rw"},
-  {"name":"стандофф Кейс ","package_name":"com.modmenustandoff.playersmenustan","icon":"https://play-lh.googleusercontent.com/2hGvCr4rwBITC9ubM2sfaNZ_EYUiZdq4-PrabI0joGN3TLjZqtFzEIUw14ZVe2ysGg=w240-h480-rw"},
-  {"name":"Case Simulator for Standoff 2","package_name":"com.modmenustandoff.playersmenustan","icon":"https://play-lh.googleusercontent.com/irq3BIH0eY8_MLa5rG-E0fRxsl5HazYj8wWKvG-ImgaRSEBl4vaI8RqB7GRVbesuobI=w240-h480-rw"}
+  {"name":"стандофф кейсы","package_name":"com.casestandoff.caseopening.casegun","icon":"https://play-lh.googleusercontent.com/jDiOVRlaoyu-MZO-3vzz7aSWcCWG4AM7Q1dOIcyCXGPa72dxj3pl-U56k-f2VEKHqFU=w240-h480-rw"},
+  {"name":"стандофф 2 0.25.0 ","package_name":"com.casestandoff.caseopening.casegun","icon":"https://play-lh.googleusercontent.com/WSEfDetXywCr2MBU256KomUDusYzqw-2GQxi0KWUeGaa7oVCku6jfyjw5vUZ-TwA=w240-h480-rw"},
+  {"name":"Кейс симулятор для Стандофф 2","package_name":"com.casestandoff.caseopening.casegun","icon":"https://play-lh.googleusercontent.com/4oTZgfWGsm0O2XOaEmsVbHwy78OpYG2MBublu9VxPj7zvuynnHFWCQSPZzuNwYMJ-g=w240-h480-rw"},
+  {"name":"стандофф Кейс ","package_name":"com.casestandoff.caseopening.casegun","icon":"https://play-lh.googleusercontent.com/2hGvCr4rwBITC9ubM2sfaNZ_EYUiZdq4-PrabI0joGN3TLjZqtFzEIUw14ZVe2ysGg=w240-h480-rw"},
+  {"name":"Case Simulator for Standoff 2","package_name":"com.casestandoff.caseopening.casegun","icon":"https://play-lh.googleusercontent.com/irq3BIH0eY8_MLa5rG-E0fRxsl5HazYj8wWKvG-ImgaRSEBl4vaI8RqB7GRVbesuobI=w240-h480-rw"}
    ]
  
 }
